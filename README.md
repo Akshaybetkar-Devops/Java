@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![download](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/c2836f92-e4a4-4bef-b241-8e070f126690)
 ## Maven Web Application
 ### We can create a simple maven web application by executing the archetype:generate command of mvn tool.
@@ -21,3 +22,7 @@ mvn archetype:generate -DgroupId=com.myproject -DartifactId=mywebapp
 ![4](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/e9050516-a05c-4a5e-ae1f-87eac0573fed)
 
 
+=======
+# Java
+Java Project
+>>>>>>> ea1d87741bf1d5dde913f8142a9b90965edf3344
